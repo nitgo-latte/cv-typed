@@ -10,4 +10,4 @@ Or you can also install typst-cli and build it yourself locally.
 
 ## Download
 
-- [pdf](https://raw.githubusercontent.com/nitgo-latte/cv-typed/master/main.pdf)
+- [pdf](https://raw.githubusercontent.com/nitgo-latte/cv-typed/master/chao-justice-resume.pdf)
