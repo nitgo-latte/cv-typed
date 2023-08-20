@@ -6,7 +6,7 @@
     [#icon("mail.svg") #link("mailto:chaolai.1082@gmail.com")],
     [#icon("home.svg") #link("https://nitgo-latte.github.io/")[Blog]],
     [#icon("github.svg") #link("https://github.com/nitgo-latte")[Github]],
-    [#icon("linkedin.svg") #link("https://www.linkedin.com/in/yu-wei-wu-23630a155/")[LinkedIn]],
+    [#icon("linkedin.svg") #link("https://www.linkedin.com/in/chao-lai-2900/")[LinkedIn]],
   )
 )
 
