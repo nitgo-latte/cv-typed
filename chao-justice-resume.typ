@@ -23,7 +23,7 @@
 
 #link("mailto:chaolai.1082@gmail.com")[chaolai.1082\@gmail.com] |
 #link("https://github.com/nitgo-latte")[github.com/nitgo-latte] | #link("https://www.linkedin.com/in/chao-lai-2900/")[linkedin.com/in/chao-lai-2900] \
-`Bio`: A programmer who enjoys working with strongly typed languages such as Typescript, Go. Believes that Ruby is garbage. Owns a cat Snowball named after the a character in Animal Farm
+`Bio`: A programmer who enjoys working with strongly typed languages such as Typescript, Go. Believes that Ruby is garbage. Owns a cat Snowball named after a character in Animal Farm.
 
 == Education
 #chiline()
