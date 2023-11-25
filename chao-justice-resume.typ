@@ -23,7 +23,7 @@
 
 #link("mailto:chaolai.1082@gmail.com")[chaolai.1082\@gmail.com] |
 #link("https://github.com/nitgo-latte")[github.com/nitgo-latte] | #link("https://www.linkedin.com/in/chao-lai-2900/")[linkedin.com/in/chao-lai-2900] \
-`Bio`: A programmer who enjoys working with strongly typed languages such as Typescript, Go. Believes that Ruby is garbage. Owns a cat Snowball named after a character in Animal Farm.
+`Bio`: A programmer who enjoys working with strongly typed languages such as Typescript, Go. A cat lover who believes that Ruby is garbage not unlike PhP.
 
 == Education
 #chiline()
@@ -46,14 +46,14 @@ Full Stack Developer #h(1fr) 2023/03 – Present \
 - Work closely with the design team to translate wireframes and mockups into interactive web pages, maintaining a consistently high standard of visual design and user interface.
 
 *August Schools* #h(1fr) New York, NY \
-Software Engineer #h(1fr) 2022/06 – 2023/02 \
+Software Engineer #h(1fr) 2022/06 – 2023/03 \
 - Supported web development (React, Typescript, Ruby on Rails, MongoDB) of note taking services, driving quarterly revenue increases in 18% from public/private school clients.
 - Conducted thorough testing and debugging of code to ensure the platform was responsive, scalable, and compatible across different browsers and devices.
 - Implemented SSO with Microsoft; leveraged Ruby gem Pundit to restrict certain views/actions to authorized users only.
 - Maintained GraphQL API endpoints to enable PDF document generating/collating, image resizing; manipulated YAML config files to support rich text editing.
 
 *Alice Financial* #h(1fr) New York, NY \
-Associate Software Engineer #h(1fr) 2021/02 – 2022/05 \
+Associate Software Engineer #h(1fr) 2021/04 – 2022/06 \
 - Leveraged financial technology (React, Typescript, Ruby on Rails, Postgres) in saving a yearly estimate of \$3.5 million on commuter spending.
 - Collaborated with a team of senior engineers to implement new features and enhancements to improve user experience and increase website functionality.
 - Contributed to a GraphQL project responsible for handling user's HSA spending logic and validating contribution limits.
@@ -68,10 +68,10 @@ Junior Software Engineer #h(1fr) 2020/08 – 2021/02 \
 
 == Side Projects
 #chiline()
-- Wrote a jupyter script for mine girlfriend's accounting job to filter thousand rows of transactions by parsing two excel files, grouping transactions by payments, fuzzy matching the vendor names.
+- Wrote a python script for my girlfriend's accounting job to de-duplicate thousands of transactions by parsing two excel sheets, grouping transactions by payment amounts, and fuzzy matching the vendor names.
 
 == Skills
 #chiline()
-- Languages: experienced in Typescript/Javascript, comfortable with Ruby, Python, Go (in random order).
+- Languages: experienced in Typescript/Javascript, comfortable with Ruby, Python, Go
 - Framework/Database: React, Rails, Express, GraphQL, Postgres, MongoDB, MySQL
 - Developer Tools: VSCode, Git, Docker, Vim
